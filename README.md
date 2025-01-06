@@ -12,3 +12,4 @@ Task Filtering: View tasks based on their status (All, Active, or Completed).
 Real-Time Updates: Automatically refresh the task list after any modification.
 
 Some Screenshots:
+![Homepage](/todolist/src/assets/p1.png)
