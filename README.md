@@ -22,14 +22,14 @@ Some Screenshots:
 *Figure 3: All Tasks (Second task being completed)*
 
 ![Homepage](/todolist/src/assets/p5.jpg)
-*Figure 1: Active Tasks*
+*Figure 4: Active Tasks*
 
-![Homepage](/todolist/src/assets/p7.jpg)
-*Figure 1: Database*
+![Homepage](/todolist/src/assets/p7.JPG)
+*Figure 5: Database*
 
 ![Homepage](/todolist/src/assets/p8.jpg)
-*Figure 1: Completed Tasks*
+*Figure 6: Completed Tasks*
 
 ![Homepage](/todolist/src/assets/p9.jpg)
-*Figure 1: After deletion of second task*
+*Figure 7: After deletion of second task*
 
