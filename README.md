@@ -18,18 +18,18 @@ Some Screenshots:
 ![Homepage](/todolist/src/assets/p2.png)
 *Figure 2: First Insertion*
 
-![Homepage](/todolist/src/assets/p4.png)
+![Homepage](/todolist/src/assets/p4.jpg)
 *Figure 3: All Tasks (Second task being completed)*
 
-![Homepage](/todolist/src/assets/p5.png)
+![Homepage](/todolist/src/assets/p5.jpg)
 *Figure 1: Active Tasks*
 
-![Homepage](/todolist/src/assets/p7.png)
+![Homepage](/todolist/src/assets/p7.jpg)
 *Figure 1: Database*
 
-![Homepage](/todolist/src/assets/p8.png)
+![Homepage](/todolist/src/assets/p8.jpg)
 *Figure 1: Completed Tasks*
 
-![Homepage](/todolist/src/assets/p9.png)
+![Homepage](/todolist/src/assets/p9.jpg)
 *Figure 1: After deletion of second task*
 
